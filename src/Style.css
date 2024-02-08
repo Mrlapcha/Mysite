@@ -47,3 +47,47 @@
     background-color: #808080;
     text-align: center;
 }
+/* About.css */
+
+
+  
+  .about-text {
+    font-size: 20px; /* Font size for the main text */
+    font-weight: bold; /* Font weight for the main text */
+    color: #333; /* Text color */
+  }
+  
+  .about-info-list {
+    list-style: none; /* Remove bullet points from the list */
+    padding-left: 0; /* Remove default padding from the list */
+  }
+  
+  .about-info-list li {
+    margin-bottom: 10px; /* Add margin between list items */
+    color: #555; /* Text color for list items */
+  }
+  
+  .about-description {
+    font-size: 16px; /* Font size for the description text */
+    line-height: 1.6; /* Line height for better readability */
+    color: #666; /* Text color for the description */
+  }
+  .about-section {
+    background-color: #b3c22c; /* Light green background color */
+    padding: 50px; /* Padding around the section */
+  }
+  /* NavBar.css */
+
+/* Example styling for navbar background color */
+.navbarScroll {
+    background-color: #333; /* Dark background color */
+  }
+  
+  /* Example styling for navbar links */
+  .navbar-nav .nav-link {
+    color: #fff; /* White color for links */
+  }
+  
+  /* Add more styles as needed */
+  
+  
